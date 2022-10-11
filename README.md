@@ -8,15 +8,34 @@
 - 적게 공부한 날이여도 무조건 1일 커밋 진행할 것!
 
 
+<details>
+<summary>[TIL221011] - ga특강</summary>
+<div markdown="1">
+
+> **ga특강**
+
+- ga분석을 위한 히트, 세션, 사용자 정의 학습
+- LTV, 코호트 개념 학습
+- ga3, ga4 차이
+    : 이탈률 -> 참여율
+
+> **others**
+
+- 회귀분석 머신러닝 기본 학습
+
+
+</details>
+
+
+
 
 <details>
 <summary>[TIL221007] - 프로젝트 대주제 정하기</summary>
+<div markdown="1">
 
 > **프로젝트 주제 정하기**
 - 프로젝트 대주제를 `게임`으로 정함
 - 던파, 피파, 카트라이더 중에 어떤 데이터로 어떤 분석을 진행하고 싶은 지 조사해서 오기
-
-
 
 
 </details>
@@ -26,6 +45,7 @@
 
 <details>
 <summary>[TIL221006] - 기업분석 소모임</summary>
+<div markdown="1">
 
 > **기업분석 모임**
 
@@ -48,6 +68,7 @@ ERD를 추가 구성하여 생각해보고, AARRR 부분에서도 "선택한 서
 
 <details>
 <summary>[TIL221005] - 포트폴리오 초안 작성</summary>
+<div markdown="1">
 
 > **취준하기**
 
@@ -62,6 +83,7 @@ ERD를 추가 구성하여 생각해보고, AARRR 부분에서도 "선택한 서
 
 <details>
 <summary>[TIL221002] - 기업분석 진행하기, 포트폴리오 작업</summary>
+<div markdown="1">
 
 > **취준하기!**
 
@@ -79,6 +101,8 @@ ERD를 추가 구성하여 생각해보고, AARRR 부분에서도 "선택한 서
 <details>
 <summary>[TIL220930] - 취업준비 이력서 작성하기
 </summary>
+<div markdown="1">
+
 
 > **취준하기!**
 
@@ -89,6 +113,7 @@ ERD를 추가 구성하여 생각해보고, AARRR 부분에서도 "선택한 서
 
 <details>
 <summary>[TIL220928] - 테블로 특강</summary>
+<div markdown="1">
 
 > **태블로 관련 대시보드 만들기 실습**
 
@@ -99,6 +124,7 @@ ERD를 추가 구성하여 생각해보고, AARRR 부분에서도 "선택한 서
 
 <details>
 <summary>[TIL220923] - 태블로 기본 대시보드 만들기</summary>
+<div markdown="1">
 
 > **태블로 시간관련 시각화 차트**
 
@@ -109,6 +135,7 @@ ERD를 추가 구성하여 생각해보고, AARRR 부분에서도 "선택한 서
 
 1. `#### 등 head가 제대로 구현 안되는 것 확인.. -> 볼드체로 변경
 2. 브랜치 생성/ 병합 연습 진행
+
 </div>
 </details>
 
