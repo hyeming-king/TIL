@@ -7,6 +7,12 @@
 - 그날의 기억할만한 내용을 가볍게 정리합니다.
 - 적게 공부한 날이여도 무조건 1일 커밋 진행할 것!
 
+[TIL221201]
+- SQL 코딩 문제 풀기
+1. solvesql : 지역별 주문의 특징
+2. leetcode : 183. Customers Who Never Order
+3. leetcode: 178. Rank Scores
+
 
 [TIL221127] 
 - 리텐션 공부하기
