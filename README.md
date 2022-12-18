@@ -9,6 +9,17 @@
 
 
 <details>
+<summary>[TIL221218]</summary>
+<div markdown="1">
+
+- 데분생 1기 스터디 참여
+
+</div>
+</details>
+
+
+
+<details>
 <summary>[TIL221216]</summary>
 <div markdown="1">
 
